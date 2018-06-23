@@ -1,2 +1,2 @@
 # invie-github
-Tus mejores guitarras invie-sibles (práctica de git/github con Leonidas Esteba de platzzi)
+Tus mejores guitarras invie-sibles (práctica de git/github con Leonidas Esteba de platzzi) by @plazi
